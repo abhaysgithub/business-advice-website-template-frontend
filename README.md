@@ -1,7 +1,7 @@
-# Business Advice - Template Website - Frontend
+# Business Advice Website Template - Frontend
 
 A customizable frontend template for business advisory and consulting websites, designed to highlight services, expertise, and client testimonials.
-- check it out : **https://abhaysgithub.github.io/business-advice-template-website-frontend/**
+- check it out : **https://abhaysgithub.github.io/business-advice-website-template-frontend/**
 
 ## Introduction
 
@@ -18,4 +18,4 @@ The **Business Advice Website** provides a professional web presence for consult
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhaysgithub/business-advice-template-website-frontend.git
+   git clone https://github.com/abhaysgithub/business-advice-website-template-frontend.git
